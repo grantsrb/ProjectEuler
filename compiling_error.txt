@@ -1,0 +1,11 @@
+/Users/satchelgrant/Documents/CpplayTime/ProjectEuler/Prob8ConsecutiveDigitProduct.cpp:18:3: error: unknown type name 'cstr'
+  cstr nums[] = "73167176531330624919225119674426574742355349194934
+  ^
+/Users/satchelgrant/Documents/CpplayTime/ProjectEuler/Prob8ConsecutiveDigitProduct.cpp:18:17: warning: missing terminating '"' character [-Winvalid-pp-token]
+  cstr nums[] = "73167176531330624919225119674426574742355349194934
+                ^
+/Users/satchelgrant/Documents/CpplayTime/ProjectEuler/Prob8ConsecutiveDigitProduct.cpp:18:17: error: expected expression
+/Users/satchelgrant/Documents/CpplayTime/ProjectEuler/Prob8ConsecutiveDigitProduct.cpp:37:51: warning: missing terminating '"' character [-Winvalid-pp-token]
+71636269561882670428252483600823257530420752963450";
+                                                  ^
+2 warnings and 2 errors generated.
